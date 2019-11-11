@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="seekBar_MaxValue">200</integer>
+    <integer name="seekBar_ProgressValue">160</integer>
+</resources>
