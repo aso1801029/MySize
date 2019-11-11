@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     /*
     * pushの演習コメント
-    * */
+    * commit&pushの練習*/
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
